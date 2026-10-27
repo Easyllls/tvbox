@@ -1,9 +1,5 @@
 {
   "urls": [
-    {"name":"🌟 潇洒","url":"https://github.com/niuber/niuber/raw/refs/heads/main/tvbox/TVBoxOSC/tvbox/api.json"},
-    {"name":"🌟 潇洒 2","url":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"},
-    {"name":"🌟 潇洒 3","url":"https://9877.kstore.space/AnotherD/api.json"},
-    {"name":"🌟 潇洒 4","url":"https://qist.wyfc.qzz.io/xiaosa/api.json"},
     {"name":"🍚 饭太硬","url":"http://www.饭太硬.cc/tv"},
     {"name":"🍚 饭太硬 2","url":"http://www.饭太硬.net/tv"},
     {"name":"🍚 饭太硬 3","url":"http://fty.xxooo.cf/tv"},
@@ -11,6 +7,10 @@
     {"name":"🍚 饭太硬 5","url":"http://fty.888484.xyz/tv"},
     {"name":"🍚 饭太硬 6","url":"http://fty.333232.xyz/tv"},
     {"name":"🍚 饭太硬 7","url":"https://qist.wyfc.qzz.io/fty.json"},
+    {"name":"🌟 潇洒","url":"https://github.com/niuber/niuber/raw/refs/heads/main/tvbox/TVBoxOSC/tvbox/api.json"},
+    {"name":"🌟 潇洒 2","url":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"},
+    {"name":"🌟 潇洒 3","url":"https://9877.kstore.space/AnotherD/api.json"},
+    {"name":"🌟 潇洒 4","url":"https://qist.wyfc.qzz.io/xiaosa/api.json"},
     {"name":"🐯 小虎斑","url":"https://play.iptv365.org/小虎斑/api.json"},
     {"name":"🐯 小虎斑 2","url":"http://hb.小虎斑.site:25252/儿童测试"},
     {"name":"🐯 小虎斑 3","url":"https://hb.xyyh.online/tvbox"},
@@ -126,7 +126,7 @@
     {"name":"🐌 蜗牛","url":"https://tv.xn--11x555b.top/svip"},
     {"name":"📺 Vox","url":"https://code.onedev.io/vox/~raw/master/demo.json"},
     {"name":"🦁 脑斧","url":"https://6492.kstore.space/xnf/xnf.json"},
-    {"name":"⚔️ 雷蒙","url":"https://fastgit.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"},
+    {"name":"⚔️ 雷蒙","url":"https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"},
     {"name":"⚡ 凯速","url":"https://6800.kstore.vip/fish.json"},
     {"name":"🍁 枫斗","url":"http://枫斗.top/tv"}
   ]
